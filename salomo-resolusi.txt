@@ -1,5 +1,6 @@
 RESOLUSI BESAR SALOMO 2024
-- Bisa membuat program website sederhana dengan html, css, js, dan php.
+- dapat mengaplikasikan program website sederhana dengan html, css, js, dan php.
 - menguasai bahasa database seperti mysql dan mariaDB
 - mengaplikasikan framework laravel dn vue.js pada my aplikasi
 - dapat menguasai bahasa pemrograman java
+- bisa membuat aplikasi android dengan android studio
